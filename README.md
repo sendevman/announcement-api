@@ -8,6 +8,7 @@
 4. [Getting Started](#getting-started)
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
+5. [Database](#database)
 
 
 ## **Project Overview**
@@ -70,3 +71,6 @@ This backend application serves as the API for the Announcement Application, bui
    ```
    The API will be available at http://localhost:8000.
 
+### **Database**
+
+You must install mysql and create announcement table.
