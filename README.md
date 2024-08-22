@@ -73,4 +73,4 @@ This backend application serves as the API for the Announcement Application, bui
 
 ### **Database**
 
-You must install mysql and create announcement table.
+You must install mysql and create announcement database.
